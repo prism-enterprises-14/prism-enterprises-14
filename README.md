@@ -2,8 +2,6 @@
 
 Founder of PRISM Web Solutions
 
-> Engineered to Endure.
-
 ---
 
 Building technology designed to last.
@@ -17,6 +15,8 @@ Digital Experiences.
 ### PRISM
 
 A technology enterprise focused on creating reliable products, services, and innovations for the future.
+
+> Engineered to Endure.
 
 ---
 
